@@ -7,7 +7,7 @@ Scalable, Generalizable, and Uncertainty-Aware Integration of Spatial Multi-Omic
 ============================================================================================================================================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Contents:
 
    SCIGMA Tutorial 1: Spatial ATAC-RNA-seq
