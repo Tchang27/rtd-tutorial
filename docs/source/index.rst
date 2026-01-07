@@ -3,9 +3,6 @@ Welcome to SCIGMA's documentation!
 
 .. SCIGMA tutorial docs file.
 
-Scalable, Generalizable, and Uncertainty-Aware Integration of Spatial Multi-Omics Across Diverse Modalities and Platforms with SCIGMA
-============================================================================================================================================
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
