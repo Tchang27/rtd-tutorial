@@ -4,7 +4,7 @@ Welcome to SCIGMA's documentation!
 .. SCIGMA tutorial docs file.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
    SCIGMA Tutorial 1: Spatial ATAC-RNA-seq
