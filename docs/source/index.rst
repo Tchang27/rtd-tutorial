@@ -7,7 +7,7 @@ Welcome to SCIGMA's documentation!
    :maxdepth: 1
    :caption: Contents:
 
-   SCIGMA Tutorial 1: Spatial ATAC-RNA-seq
+   SCIGMA Tutorial 1 Spatial ATAC-RNA-seq
 
 Overview
 ========
