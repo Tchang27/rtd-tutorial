@@ -8,6 +8,7 @@ Welcome to SCIGMA's documentation!
    :caption: Contents:
 
    Tutorial 1 Spatial ATAC-RNA-seq
+   Tutorial 2 SPOTS
 
 Overview
 ========
