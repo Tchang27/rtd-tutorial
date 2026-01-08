@@ -11,7 +11,7 @@ Welcome to SCIGMA's documentation!
    SCIGMA-10x-Xenium-Prime-Ovary
    SCIGMA-Spatial-Mux-Seq
 
-.. image:: ../images/SCIGMA_Workflow.pdf
+.. image:: ../images/SCIGMA_Workflow.png
    :width: 1600 
 
 Overview
