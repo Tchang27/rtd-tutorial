@@ -7,6 +7,7 @@ Welcome to SCIGMA's documentation!
    :maxdepth: 1
    :caption: Contents:
 
+   install
    Tutorial 1 Spatial ATAC-RNA-seq
    SCIGMA-10x-Xenium-Prime-Ovary
    SCIGMA-Spatial-Mux-Seq
