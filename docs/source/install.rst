@@ -6,6 +6,7 @@ SCIGMA has been tested on python=3.8 and package versions listed in the requirem
 SCIGMA is designed to work on all operating systems in principle. SCIGMA has been tested on the following systems:
 
 Linux: Red Hat Enterprise Linux 9.2
+
 macOS: Ventura 13.4
    
 
